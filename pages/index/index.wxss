@@ -1,0 +1,9 @@
+.color{
+  color: red
+}
+view{
+  color: yellow
+}
+.bav{
+  display: flex
+}
